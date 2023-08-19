@@ -27,7 +27,7 @@ domain: petelr.github.io
 url: https://petelr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  petelr
-
+permalink: /posts/:title
 # Build settings
 theme: minima
 plugins:
