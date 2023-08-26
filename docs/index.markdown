@@ -24,3 +24,4 @@ I like taking photos, reading, and making stuff.
 - [ ] find out what to do with about page
 - [ ] get photography page setup 
 - [ ] what's up with the bullet points???
+- [ ] hide none important pages from the header
